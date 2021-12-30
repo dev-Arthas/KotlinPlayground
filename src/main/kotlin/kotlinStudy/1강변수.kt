@@ -1,5 +1,5 @@
 package kotlinStudy
 
 fun main() {
-    println("Kotlin is fun")
+    println("Kotlin is so fun")
 }
