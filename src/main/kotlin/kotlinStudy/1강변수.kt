@@ -10,8 +10,8 @@ fun main() {
     var e: Boolean = true
     var f: Boolean = false
     var g: Char = 'a'
-    var h = "sdasd"
-    var i = """asdasdasdas
+    var h: String = "sdasd"
+    var i: String = """asdasdasdas
         asdasdasd
         asdasdasdsadas alcas!@!@???!@! $a
     """
