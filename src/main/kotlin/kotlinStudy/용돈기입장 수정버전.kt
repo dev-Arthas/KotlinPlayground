@@ -1,5 +1,5 @@
 package kotlinStudy
-
+// 유저가 늘어날 때의 코드 추가 요구
 fun main() {
     val jungWoo = User(name = "Jung Woo", money = 0)
 
