@@ -24,7 +24,7 @@ package kotlinStudy
           -content  - out/in money   - extra money
           -content  - out/in money   - extra money
 
- */
+
 var extraMoney: Int = 0
 var extraMoneyHistory = mutableListOf<Int>(extraMoney)
 var cashInHistory = mutableMapOf("내용" to "입출금액")
@@ -80,3 +80,4 @@ fun cashOut(a: Int): Int{
     return extraMoney
 }
 
+*/

@@ -6,11 +6,14 @@ fun main(){
 
     var intArr = arrayOf(1,2,3,4,5)
     var intArr2 = arrayOfNulls<Int>(2)
+    var arr = arrayOf("z","sd")
 
-    println(intArr[0])
+    println(intArr[0] + intArr[2])
 
-    intArr[0] = 7
-    println(intArr[0])
+    println(arr[1])
 
-    println(intArr2[1])
+    if (intArr[1]==2){
+        print("true")
+    }
+
 }
