@@ -22,7 +22,7 @@ package kotlinStudy
           -content  - out/in money   - extra money
           -content  - out/in money   - extra money
           -content  - out/in money   - extra money
-          -content  - out/in money   - extra money
+          -content  - out/in money   - extra money  */
 
 
 var extraMoney: Int = 0
@@ -80,4 +80,3 @@ fun cashOut(a: Int): Int{
     return extraMoney
 }
 
-*/
